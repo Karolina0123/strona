@@ -1,7 +1,7 @@
 .all{
     background-color:rgb(163, 163, 163);
     width: 900px;
-    min-height: 950px;
+    min-height: 990px;
     margin-left: 18%;
     border: 20px solid rgb(163, 163, 163);
 }
@@ -10,8 +10,8 @@
     float: left;
     border-radius: 10px;
     box-shadow: 5px 5px 10px black;
-    min-width: 10%;
-    min-height: 80%;
+    min-width: 130px;
+    min-height: 300px;
     margin-left: 1%;
 }
 .main{
@@ -19,7 +19,7 @@
     float: left;
     border-radius: 10px;
     box-shadow: 5px 5px 10px black;
-    min-width: 770px;
+    min-width: 700px;
     margin-left: 10px;
 }
 .data{
@@ -111,7 +111,7 @@ footer{
 }
 .szary{
     background-color: grey;
-    width: 750px;
+    width: 700px;
     margin-left: 15px;
     margin-right: 15px;
 }
